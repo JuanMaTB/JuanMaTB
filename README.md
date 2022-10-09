@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JuanMaTB
 - 👀 I’m interested in DevOps and Cloud Computing
 - 🌱 I’m currently learning Kubernetes, AWS, Azure, GCP, Terraform, Ansible, Vagrant, CI/CD...
-- 💞️ I’m looking to collaborate on DevOps proyects
+- 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me ...
 
 <!---
